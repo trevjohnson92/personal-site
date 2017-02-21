@@ -1,0 +1,27 @@
+* {
+  font-family: Century Gothic;
+}
+ 
+h1 {
+   color: MidNightBlue;
+   font-family: Century Gothic;
+   font-size: 65px;
+   line-height: 10px;
+}
+
+h2 {
+   color: MidNightBlue;
+   font-family: Century Gothic;
+   font-size: 28px;
+   line-height: 30px;
+}
+
+body {
+   color: Maroon;
+   text-align: left;
+   background-color: rgba(50, 20, 10, 0.2);
+}
+.TrevorPicture {
+   width: 400px;
+   border-radius: 10%;
+  }
